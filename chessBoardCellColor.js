@@ -1,3 +1,4 @@
+
 function solution(cell1,cell2) {
     
     const letters = 'ABCDEFGH'
@@ -11,3 +12,4 @@ function solution(cell1,cell2) {
 
 
 }
+
