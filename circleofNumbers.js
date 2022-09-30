@@ -5,7 +5,5 @@ function solution(n, firstNumber) {
     } else {
         return firstNumber - half
     }
-    
-    
 
 }
