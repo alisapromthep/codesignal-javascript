@@ -1,0 +1,10 @@
+// Given an integer size, return array of length size filled with 1s.
+
+let size = 4
+
+function solution(size) {
+    return Array(size).fill(1);
+
+}
+
+console.log(solution(size))
